@@ -1,0 +1,188 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'MENU JADWAL PRAKTEK'
+  ClientHeight = 430
+  ClientWidth = 774
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object dxRibbon1: TdxRibbon
+    Left = 0
+    Top = 0
+    Width = 774
+    Height = 126
+    BarManager = dxBarManager1
+    ColorSchemeName = 'Blue'
+    Contexts = <>
+    TabOrder = 0
+    TabStop = False
+    object dxRibbon1Tab1: TdxRibbonTab
+      Active = True
+      Caption = 'FILE'
+      Groups = <
+        item
+          ToolbarName = 'dxBarManager1Bar1'
+        end>
+      Index = 0
+    end
+    object dxRibbon1Tab2: TdxRibbonTab
+      Caption = 'MASTER DATA'
+      Groups = <
+        item
+          ToolbarName = 'dxBarManager1Bar2'
+        end>
+      Index = 1
+    end
+    object dxRibbon1Tab3: TdxRibbonTab
+      Caption = 'PENGATURAN'
+      Groups = <>
+      Index = 2
+    end
+    object dxRibbon1Tab4: TdxRibbonTab
+      Caption = 'LAPORAN'
+      Groups = <
+        item
+          ToolbarName = 'dxBarManager1Bar3'
+        end>
+      Index = 3
+    end
+  end
+  object dxBarManager1: TdxBarManager
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    Categories.Strings = (
+      'Default')
+    Categories.ItemsVisibles = (
+      2)
+    Categories.Visibles = (
+      True)
+    PopupMenuLinks = <>
+    UseSystemFont = True
+    Left = 336
+    Top = 72
+    PixelsPerInch = 96
+    object dxBarManager1Bar1: TdxBar
+      Caption = 'AKSES APLIKASI'
+      CaptionButtons = <>
+      DockedLeft = 0
+      DockedTop = 0
+      FloatLeft = 802
+      FloatTop = 2
+      FloatClientWidth = 0
+      FloatClientHeight = 0
+      ItemLinks = <
+        item
+          Visible = True
+          ItemName = 'dxBarLargeButton1'
+        end
+        item
+          Visible = True
+          ItemName = 'dxBarLargeButton2'
+        end>
+      OneOnRow = True
+      Row = 0
+      UseOwnFont = False
+      Visible = True
+      WholeRow = False
+    end
+    object dxBarManager1Bar2: TdxBar
+      Caption = 'DATA JADWAL'
+      CaptionButtons = <>
+      DockedLeft = 0
+      DockedTop = 0
+      FloatLeft = 802
+      FloatTop = 2
+      FloatClientWidth = 0
+      FloatClientHeight = 0
+      ItemLinks = <
+        item
+          Visible = True
+          ItemName = 'dxBarLargeButton3'
+        end
+        item
+          Visible = True
+          ItemName = 'dxBarButton1'
+        end>
+      OneOnRow = True
+      Row = 0
+      UseOwnFont = False
+      Visible = True
+      WholeRow = False
+    end
+    object dxBarManager1Bar3: TdxBar
+      Caption = 'LAPORAN LAPORAN'
+      CaptionButtons = <>
+      DockedLeft = 0
+      DockedTop = 0
+      FloatLeft = 802
+      FloatTop = 2
+      FloatClientWidth = 0
+      FloatClientHeight = 0
+      ItemLinks = <
+        item
+          Visible = True
+          ItemName = 'dxBarLargeButton4'
+        end
+        item
+          Visible = True
+          ItemName = 'dxBarLargeButton5'
+        end>
+      OneOnRow = True
+      Row = 0
+      UseOwnFont = False
+      Visible = True
+      WholeRow = False
+    end
+    object dxBarLargeButton1: TdxBarLargeButton
+      Caption = 'LOGIN'
+      Category = 0
+      Hint = 'LOGIN'
+      Visible = ivAlways
+    end
+    object dxBarLargeButton2: TdxBarLargeButton
+      Caption = 'LOGOUT'
+      Category = 0
+      Hint = 'LOGOUT'
+      Visible = ivAlways
+    end
+    object dxBarLargeButton3: TdxBarLargeButton
+      Caption = 'TAMBAH DATA JADWAL'
+      Category = 0
+      Hint = 'TAMBAH DATA JADWAL'
+      Visible = ivAlways
+    end
+    object dxBarButton1: TdxBarButton
+      Caption = 'VIEW JADWAL'
+      Category = 0
+      Hint = 'VIEW JADWAL'
+      Visible = ivAlways
+      OnClick = dxBarButton1Click
+    end
+    object dxBarLargeButton4: TdxBarLargeButton
+      Caption = 'LAP DATA JADWAL'
+      Category = 0
+      Hint = 'LAP DATA JADWAL'
+      Visible = ivAlways
+    end
+    object dxBarLargeButton5: TdxBarLargeButton
+      Caption = 'DETAIL JADWAL'
+      Category = 0
+      Hint = 'DETAIL JADWAL'
+      Visible = ivAlways
+    end
+  end
+  object ImageList1: TImageList
+    Left = 216
+    Top = 80
+  end
+end

@@ -1,0 +1,51 @@
+object Form4: TForm4
+  Left = 0
+  Top = 0
+  Caption = 'Form4'
+  ClientHeight = 327
+  ClientWidth = 665
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object dxRibbon1: TdxRibbon
+    Left = 0
+    Top = 0
+    Width = 665
+    Height = 126
+    BarManager = dxBarManager1
+    ColorSchemeName = 'Blue'
+    Contexts = <>
+    TabOrder = 0
+    TabStop = False
+    object dxRibbon1Tab1: TdxRibbonTab
+      Active = True
+      Caption = 'dxRibbon1Tab1'
+      Groups = <>
+      Index = 0
+    end
+  end
+  object dxBarManager1: TdxBarManager
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    Categories.Strings = (
+      'Default')
+    Categories.ItemsVisibles = (
+      2)
+    Categories.Visibles = (
+      True)
+    PopupMenuLinks = <>
+    UseSystemFont = True
+    Left = 312
+    Top = 80
+    PixelsPerInch = 96
+  end
+end

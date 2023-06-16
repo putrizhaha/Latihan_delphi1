@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/16 11:36:31.000.094,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 11:44:14.000.020,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/16 13:37:49.000,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 13:38:24.855,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan3_StringGrid\Unit1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/16 13:38:24.855,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan3_StringGrid\Unit1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 13:38:37.048,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan3_StringGrid\Latihan_stringgrid.dproj=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

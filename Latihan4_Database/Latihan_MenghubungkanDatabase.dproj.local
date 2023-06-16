@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/16 11:36:31.000.094,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 11:44:14.000.020,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/16 16:25:32.000.197,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 16:25:44.000.576,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit1.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/16 16:25:44.000.576,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit1.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 16:26:12.000.474,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Latihan_MenghubungkanDatabase.dproj=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/16 22:40:11.000.979,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit2.pas</Transaction>
+    <Transaction>2023/06/16 22:44:39.000.668,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Uviewjadwal.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 22:44:39.000.668,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Uviewjadwal.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit1.dfm</Transaction>
+    <Transaction>2023/06/16 22:44:49.000.143,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Ujadwal.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit2.dfm</Transaction>
+    <Transaction>2023/06/16 22:44:49.000.143,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Ujadwal.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit2.pas</Transaction>
+    <Transaction>2023/06/17 01:03:19.000.693,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit3.pas</Transaction>
+    <Transaction>2023/06/17 01:04:08.000.238,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit3.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Umenu.dfm</Transaction>
+    <Transaction>2023/06/17 01:04:08.000.238,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit3.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Umenu.pas</Transaction>
+    <Transaction>2023/06/17 01:24:07.000.724,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit4.pas</Transaction>
+    <Transaction>2023/06/17 01:25:56.000.737,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit4.pas=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Umain.pas</Transaction>
+    <Transaction>2023/06/17 01:25:56.000.737,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Unit4.dfm=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Umain.dfm</Transaction>
+    <Transaction>2023/06/17 02:19:05.000.593,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Latihan_delphi1\Latihan4_Database\Umain.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
